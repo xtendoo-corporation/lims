@@ -1,0 +1,33 @@
+# Changes here will be overwritten by Copier
+_commit: v2.4.0
+_src_path: gh:Tecnativa/doodba-copier-template
+backup_deletion: true
+backup_dst: null
+backup_email_from: null
+backup_email_to: null
+backup_tz: UTC
+cidr_whitelist: null
+domains_prod: null
+domains_test: null
+gitlab_url: null
+odoo_dbfilter: .*
+odoo_initial_lang: es_ES
+odoo_listdb: true
+odoo_oci_image: null
+odoo_proxy: null
+odoo_version: 14.0
+paths_without_crawlers:
+  - /web
+  - /website/info
+postgres_dbname: prod
+postgres_username: odoo
+postgres_version: 13
+project_author: Xtendoo
+project_license: AGPL-3.0-or-later
+project_name: xtendoo
+smtp_canonical_default: null
+smtp_canonical_domains: null
+smtp_default_from: null
+smtp_relay_host: null
+smtp_relay_port: 587
+smtp_relay_user: null

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping
+            directory="$PROJECT_DIR$/odoo/custom/src/account-financial-reporting"
+            vcs="Git"
+        />
+    <mapping
+            directory="$PROJECT_DIR$/odoo/custom/src/account-financial-tools"
+            vcs="Git"
+        />
+    <mapping
+            directory="$PROJECT_DIR$/odoo/custom/src/account-invoice-reporting"
+            vcs="Git"
+        />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/account-invoicing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/bank-payment" vcs="Git" />
+    <mapping
+            directory="$PROJECT_DIR$/odoo/custom/src/bank-statement-import"
+            vcs="Git"
+        />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/community-data-files" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/connector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/connector-lims" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/dms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/e-commerce" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/edi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/hr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/hr-attendance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/hr-holidays" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/intrastat-extrastat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/l10n-spain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/mis-builder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/odoo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/partner-contact" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/pos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/product-attribute" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/purchase-workflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/queue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/reporting-engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/sale-workflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/server-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/server-tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/server-ux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/social" vcs="Git" />
+    <mapping
+            directory="$PROJECT_DIR$/odoo/custom/src/stock-logistics-barcode"
+            vcs="Git"
+        />
+    <mapping
+            directory="$PROJECT_DIR$/odoo/custom/src/stock-logistics-reporting"
+            vcs="Git"
+        />
+    <mapping
+            directory="$PROJECT_DIR$/odoo/custom/src/stock-logistics-warehouse"
+            vcs="Git"
+        />
+    <mapping
+            directory="$PROJECT_DIR$/odoo/custom/src/stock-logistics-workflow"
+            vcs="Git"
+        />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/website" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo/custom/src/xtendoo" vcs="Git" />
+  </component>
+</project>
